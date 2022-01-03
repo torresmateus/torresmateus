@@ -3,7 +3,7 @@
 
 
 - 🔭 Estudante de Engenharia da Computação - 3 Semestre
-- 🌱 Estudando C, C++ e C#
+- 🌱 Estudando C, C++, C# e Java
 - 📫 email para contato: mateustorres2017@gmail.com
 
 <div align= >
