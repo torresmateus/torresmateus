@@ -2,8 +2,8 @@
 
 
 
-- 🔭 Estudante de Engenharia da Computação - 4 Semestre
-- 🌱 Estudando C, C# e Java
+- 🔭 Estudante de Engenharia da Computação - 5 Semestre
+- 🌱 Estudando C# e Java
 - 📫 email para contato: mateustorres2017@gmail.com
 
 <div align= >
