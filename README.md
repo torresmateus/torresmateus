@@ -5,6 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mateust0rres/)
 
 ![Mateus GitHub stats](https://github-readme-stats.vercel.app/api?username=torresmateus&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=torresmateus&hide_progress=true)
 
 ## Technologies
 <div style="display: inline_block"><br/>
